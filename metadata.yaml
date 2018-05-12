@@ -23,6 +23,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2150
     wikipedia: http://en.wikipedia.org/wiki/George_Shepard_Chappell
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/31478#Rollo-in-Society--A-Guide-for-Youth
 gutenberg_issued: '2010-03-03'
 gutenberg_type: Text
 identifiers:
